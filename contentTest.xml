@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<positionContent>
+  <item type="HTML_TEXTFILE">
+    <data><![CDATA[Das ist ein Test]]></data>
+  </item>
+  <item type="AUDIO">
+    <data>fisch.mp3</data>
+    <position>Test-Position</position>
+    <position>Test-Position2</position>
+  </item>
+  <item type="HTML_TEXT">
+    <data><![CDATA[Test-HTML-Titel]]></data>
+  </item>
+</positionContent>

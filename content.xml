@@ -1,0 +1,49 @@
+<positionContent>
+    <item type="URL">
+        <data>http://de.wikipedia.org/wiki/Nofretete</data>
+		<position>Schreibtisch</position>
+    </item>
+	<item type="HTML_TEXT">
+        <data>
+			<![CDATA[
+				<p>Ihr Name <i>Neferet-iti</i> bedeutet <i>Die Schöne ist gekommen</i> und tritt ab.
+				Über die Kindheit Nofretetes und über ihre Abstammung können keine sicheren Aussagen getroffen werden. Früher wurde behauptet, dass ihr Name, Die Schöne ist gekommen, auf eine ausländische Abstammung hindeute, wofür es jedoch keine archäologischen Beweise gibt. Versuche, sie mit der hurritischen Taduhepa, der Tochter des Königs Tušratta gleichzusetzen, konnten nicht überzeugen. Heute ist man der Ansicht, dass Nofretete der ägyptischen Oberschicht angehörte und nicht erst im heiratsfähigen Alter nach Ägypten kam. Hinweise darauf gibt das Königsgrab ihres Ehemanns in Achet-Aton, in dem Tij, die Gemahlin des späteren Königs Eje, als „große Amme“ Nofretetes bezeichnet wird. Demnach wäre es möglich, dass Nofretete eine Tochter Ejes aus früherer Ehe und Tij ihre Stiefmutter war, die sie als Halbwaise aufzog. Nach einer weniger verbreiteten Theorie könnte sie auch eine Tochter von Amenophis III. aus einer Nebenlinie sein. Umstritten ist außerdem, ob Nofretete die Schwester von Mutnedjmet, der zweiten Gemahlin von Haremhab war. In den Aufzeichnungen tritt diese als „Schwester der Königin“ auf, jedoch könnte ihr Name auch als Mutbeneret gelesen werden.
+			]]>
+		</data>
+		<position>Schreibtisch</position>
+    </item>
+	<item type="IMAGE">
+        <data>nofretete.jpg</data>
+		<position>Schreibtisch</position>
+		<position>Tuer</position>
+    </item>
+	<item type="AUDIO">
+        <data>test.mp3</data>
+		<position>Schreibtisch</position>
+		<position>Tuer</position>
+    </item>
+	<item type="TITLE">
+        <data>Nofretete</data>
+		<position>Schreibtisch</position>
+    </item>
+	
+	
+	<item type="URL">
+        <data>http://www.spiegel.de/thema/nofretete/</data>
+		<position>Tuer</position>
+    </item>
+	<item type="HTML_TEXT">
+        <data>
+			<![CDATA[
+				<p>Ihr Name <i>Neferet-iti</i> bedeutet <i>Die Schöne ist gekommen</i> und tritt ab.
+				Weitere Text...
+			]]>
+		</data>
+		<position>Tuer</position>
+    </item>
+
+	<item type="TITLE">
+        <data>Alte Nofretete</data>
+		<position>Tuer</position>
+    </item>
+</positionContent>

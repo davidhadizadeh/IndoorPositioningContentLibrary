@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<positionContent>
+  <item type="TITLE">
+    <data>title</data>
+  </item>
+  <item type="DESCRIPTION">
+    <data>description</data>
+    <position>position</position>
+  </item>
+  <item type="TEXTFILE">
+    <data>file.txt</data>
+  </item>
+  <item type="DESCRIPTION">
+    <data>description1</data>
+  </item>
+</positionContent>
